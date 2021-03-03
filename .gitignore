@@ -43,3 +43,9 @@ jspm_packages
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore idea directory.
+/.idea/
+/.idea/*
+!/.idea/*
+
