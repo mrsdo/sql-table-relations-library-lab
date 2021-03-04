@@ -46,6 +46,4 @@ jspm_packages
 
 # Ignore idea directory.
 /.idea/
-/.idea/*
-!/.idea/*
-
+/.idea/
